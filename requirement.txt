@@ -1,0 +1,4 @@
+mysql.connector
+flask
+uuid
+flask_cors
