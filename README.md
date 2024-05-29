@@ -12,7 +12,7 @@ A fast and simple URL Shortener to shorten big urls into short and time efficien
 2. `$ cd URL_Shortener` - go inside the project directory
 
 3. `python -m venv env` to create a vitual environment.    
-4. `pip install -r requirements.txt` to install libraries.
+4. `pip install -r requirement.txt` to install libraries.
 5. `Python ./main.py` to execute the python file.
 
 
