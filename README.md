@@ -8,7 +8,7 @@ A fast and simple URL Shortener to shorten big urls into short and time efficien
 
 
 ## Getting Started
-1. `$ git clone https://github.com/ananyab1909/Url_Shortener.git` - clone this project to your computer
+1. `$ git clone https://github.com/ananyab1909/URL_Shortener.git` - clone this project to your computer
 2. `$ cd Url_Shortener` - go inside the project directory
 
 3. `python -m venv env` to create a vitual environment.    
